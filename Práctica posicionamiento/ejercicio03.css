@@ -1,0 +1,45 @@
+.contenedor{
+    width: 850px;
+    height:100px;
+    display: inline-flex;
+    justify-content: space-between;
+    border: 2px solid black;
+
+
+}
+
+.cuadrado1{
+   background-color: red;
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cuadrado2{
+    background-color: blue;
+     width: 100px;
+     height: 100px;
+     color: white;
+     font-size: 30px;
+     display:flex;
+     justify-content: center;
+    align-items: center;
+ 
+ }
+
+ .cuadrado3{
+    background-color: green;
+     width: 100px;
+     height: 100px;
+     color: white;
+     font-size: 30px;
+     display:flex;
+     justify-content: center;
+    align-items: center;
+ 
+ }
